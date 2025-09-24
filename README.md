@@ -1,3 +1,9 @@
+tencent_review.sql 文件为指标体系相关数据处理与绩效得分模型的sql代码
+review_data_generator.py 文件为生成模拟业务场景数据的python脚本 (生成数据1g+因此没有上传)
+腾讯广告审核数据分析.twb 为简单的tableau数据看板
+指标体系搭建.png 为简单搭建的指标体系
+
+
 # 腾讯广告审核数据分析
 
 ## 数据生成
